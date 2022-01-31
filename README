@@ -1,0 +1,7 @@
+Compile Command:
+	gcc -l pthread -o pthread-practice pthread-practice.c
+
+Run Command:
+	./pthread-practice
+
+A simple program using pthreads that visualizes how a mutex can keep two threads in line.
